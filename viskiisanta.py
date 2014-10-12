@@ -22,18 +22,20 @@ firstPart = [
     "Pyörin omassa ulosteessani viskiexpossa",
     "Kirjotin viskiaiheista blogipostia",
     "Olin tuhoamassa länsimaista yhteiskuntaa viskipäissäni",
+    "Keskiketterän voimalla lähdettiin kundien kanssa kylille",
 ]
 
 secondPart = [
     "Viskiexpon pojat tarjos laitonta mallasuutetta",
-    "Aluehallintoviraston sällit löysi meidän stashin"
+    "Aluehallintoviraston sällit löysi meidän stashin",
+    "tilattiin viskilärvilauta",
 ]
 
 lastPart = [
     "sitten Aluehallintovirasto kielsi kaiken elollisen",
     "koko Viskiexpo joutu linnaan",
-    "viimesellä huikalla hajos koko expo"
-
+    "viimesellä huikalla hajos koko expo",
+    "sitten kuvat meni julkiseksi ja nyt on osoite Aluehallintoviraston kiipelilauta",
 ]
 
 def getRandFromList(l):
