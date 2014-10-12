@@ -25,12 +25,14 @@ firstPart = [
 ]
 
 secondPart = [
-    "Viskiexpon pojat tarjos laitonta mallasuutetta"
+    "Viskiexpon pojat tarjos laitonta mallasuutetta",
+    "Aluehallintoviraston sällit löysi meidän stashin"
 ]
 
 lastPart = [
     "sitten Aluehallintovirasto kielsi kaiken elollisen",
     "koko Viskiexpo joutu linnaan",
+    "viimesellä huikalla hajos koko expo"
 
 ]
 
